@@ -1,0 +1,50 @@
+.head{
+    text-align: center;
+    font-family: cursive;
+}
+
+.styleinput{
+    display:block;
+    height:200px;
+    width:80vw;
+    margin:auto  
+}
+
+.trans-btn{
+    display:block;
+    margin:auto;
+    margin-top:50px;
+    padding:20px;
+    font-family:cursive;
+    background-color:transparent;
+    font-weight: bold;
+}
+
+.output-con{
+    display:block;
+    height:200px;
+    width:80vw;
+    margin:auto;
+    border-style:solid;
+    border-color: violet;
+    margin-top:50px;
+    font-family: cursive;
+    font-weight: bold;
+    
+
+
+}
+
+.footer{
+    background-color:wheat;
+    padding:20px;
+    min-height:100vh;
+    margin-top:20px;
+    text-align:center;
+    font-family:cursive;
+    font-weight: bold;
+}
+body{
+    background-color:#BEF264;
+    
+}
