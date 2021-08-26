@@ -1,2 +1,2 @@
 # pig-latin translator
- language translator
+ funny language translator
